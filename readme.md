@@ -1,4 +1,4 @@
-# Stupider Title
+#README
 
 A better title.
 
